@@ -36,7 +36,7 @@ cmatrix
 sleep 3
 exit
 }
-xdg-open https://www.youtube.com/channel/UCoUUcJz3ee0K9cIM4hqhdew
+xdg-open https://m.youtube.com/channel/UC53YS6YNHqAPa0fRlCDwm4g
 read -p "╠═▶    :" link1;
 echo "╚═╗    :\033[1;32mSHORTLINK BERHASIL, HASIL LINK ADA DI BAWAH"
 echo "  \033[1;33m▼\033[0m"
